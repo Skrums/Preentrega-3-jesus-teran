@@ -198,4 +198,19 @@ h3 {
 /*Nosotros*/
 .main-us .portada-us img {
   width: 100%;
+}
+
+/*Menu*/
+.portada-Menu .img-portada-menu {
+  width: 100%;
+  height: 500px;
+}
+
+.promociones-portada .promo-principal {
+  width: 100%;
+  height: 700px;
+}
+
+.portada-locales iframe {
+  width: 100%;
 }/*# sourceMappingURL=main.css.map */

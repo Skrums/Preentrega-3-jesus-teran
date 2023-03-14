@@ -31,16 +31,19 @@ ul {
   width: 100%;
   height: 600px;
 }
+
 .slider-frame ul {
   display: flex;
   padding: 0;
   width: 400%;
   animation: slide 20s infinite alternate ease-in-out;
 }
+
 .slider-frame li {
   width: 100%;
   list-style: none;
 }
+
 .slider-frame img {
   width: 100%;
 }
@@ -100,24 +103,29 @@ ul {
   transition: all 400ms ease-out;
   cursor: default;
 }
+
 .card img {
   width: 100%;
   height: 210px;
 }
+
 .card .contenido-card {
   padding: 15px;
   text-align: center;
 }
+
 .card .contenido-card h3 {
   margin-bottom: 15px;
   color: #7a7a7a;
 }
+
 .card .contenido-card p {
   line-height: 1.8;
   color: #6a6a6a;
   font-size: 14px;
   margin-bottom: 5px;
 }
+
 .card .contenido-card a {
   display: inline-block;
   padding: 10px;
@@ -129,6 +137,7 @@ ul {
   transition: all 400ms ease;
   margin-bottom: 5px;
 }
+
 .card .contenido-card a:hover {
   background: #2fb4cc;
   color: #fff;
@@ -199,5 +208,20 @@ h3 {
 .main-us .portada-us img {
   width: 100%;
 }
+
+/*Menu*/
+.portada-Menu .img-portada-menu {
+  width: 100%;
+  height: 500px;
+}
+
+.promociones-portada .promo-principal {
+  width: 100%;
+  height: 700px;
+}
+
+.portada-locales iframe {
+  width: 100%;
+} 
 
 /*# sourceMappingURL=estilo.css.map */
