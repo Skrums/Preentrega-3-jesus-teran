@@ -31,7 +31,7 @@ ul {
     margin: 50px auto 50px;
     overflow: hidden;
     margin-top: 10px;
-    width: 1200px;
+    width: 100%;
     height: 600px;
 
     ul {
@@ -188,15 +188,16 @@ ul {
 
 
     .slider-frame {
-        width: 100%;
+        width: 50;
 
-        height: 150%;
+        height: 100%;
         justify-content: center;
         padding-left: 0;
         padding-right: 0;
 
         ul {
-            Overflow: visible
+            Overflow: hidden
+            
         }
 
         ul {
@@ -212,13 +213,7 @@ ul {
     }
 
 
-    .slider-frame ul img {
-        padding-left: 0px;
-        width: 100vh;
-        width: 500px;
-
-    }
-
+ 
     .container-card {
         margin-top: 0;
     }
