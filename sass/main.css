@@ -206,11 +206,23 @@ h3 {
   height: 500px;
 }
 
+@media only screen and (min-width: 340px) and (max-width: 768px) {
+  .portada-Menu .img-portada-menu {
+    width: 100%;
+    height: 300px;
+  }
+}
 .promociones-portada .promo-principal {
   width: 100%;
   height: 700px;
 }
 
+@media only screen and (min-width: 340px) and (max-width: 768px) {
+  .promociones-portada .promo-principal {
+    width: 100%;
+    height: 300px;
+  }
+}
 .portada-locales iframe {
   width: 100%;
 }/*# sourceMappingURL=main.css.map */
