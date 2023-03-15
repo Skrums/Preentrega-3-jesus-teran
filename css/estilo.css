@@ -114,9 +114,9 @@ ul {
   text-align: center;
 }
 
-.card .contenido-card h3 {
+.card .contenido-card h2 {
   margin-bottom: 15px;
-  color: #7a7a7a;
+  color: black;
 }
 
 .card .contenido-card p {
@@ -200,7 +200,7 @@ footer {
   width: 200px;
 }
 
-h3 {
+h2 {
   margin-left: 0%;
 }
 
